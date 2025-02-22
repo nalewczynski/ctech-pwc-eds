@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/ctech-pwc-eds/:/",
+    "/content/ctech-pwc-eds/configuration:/.helix/config.json",
+    "/content/ctech-pwc-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ctech-pwc-eds/"
   ]
 }
